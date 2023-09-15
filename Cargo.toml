@@ -1,0 +1,11 @@
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+name = "exif-reader"
+version = "0.1.0"
+description = ""
+authors = ["NightFox"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
